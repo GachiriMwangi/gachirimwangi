@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Daniel Mwangi, a full stack developer, experienced in building fully responsive MERN stack websites and application that implement the jamstack. My love for the MERN stack was fueled by my curiosity and ardent urge to create dynamic websites, and over time I've attained mastery in building MERN apps.
 
 <!--
 **GachiriMwangi/gachirimwangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
