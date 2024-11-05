@@ -13,7 +13,7 @@ I'm a full stack developer, experienced in building fully responsive MERN stack 
  * MongoDB
  * Nodejs
  * Expressjs
- * PHP
+ * PHP Laravel
  * SQL/ MYSQL
 
 #### About Me.😄
