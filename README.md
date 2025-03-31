@@ -19,7 +19,6 @@ I'm a full stack developer, experienced in building fully responsive MERN stack 
 #### About Me.😄
 - 🌱 I’m currently learning Nextjs, which is a react framework that extend react capabilities and is used for building React apps which are more robust, efficient and feature-rich. 
 - 👯 I’m looking to collaborate on building full stack MERN application. 
-- 🤔 I’m looking for help with designing UI/UX for applications. 
 - 💬 Ask me about creating robust MERN applications and optimizing their performances. 
 - 📫 How to reach me: Email me at gachirimwangi2021@gmail.com 
 - 😄 Pronouns: He.  
@@ -32,17 +31,4 @@ I'm a full stack developer, experienced in building fully responsive MERN stack 
 
 </div>
 
-
-
-#### Github achievements
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-#### Github stats.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gachirimwangi)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gachirimwangi&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/gachirimwangi)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=gachirimwangi)  
 
