@@ -4,7 +4,7 @@
 
 I build clean, production-ready web applications and integrate AI into real systems. I've shipped a full customer support chatbot integration into a live IFMS platform, and I enjoy turning complex business problems into reliable, well-crafted software.
 
-Currently pursuing a **BSc. Computer Science** at Jomo Kenyatta University of Agriculture and Technology (JKUAT).
+Graduated with a **BSc. Computer Science** at Jomo Kenyatta University of Agriculture and Technology (JKUAT).
 
 ---
 
