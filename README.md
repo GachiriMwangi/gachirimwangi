@@ -1,34 +1,60 @@
-### Hi there👋
+### Hi there, I'm Gachiri Mwangi 👋
 
-### My name is Daniel Mwangi.
+**Full Stack Engineer** — React on the frontend, Laravel on the backend, SQL at the data layer.
 
-#### Full Stack Developer
+I build clean, production-ready web applications and integrate AI into real systems. I've shipped a full customer support chatbot integration into a live IFMS platform, and I enjoy turning complex business problems into reliable, well-crafted software.
 
-I'm a full stack developer, experienced in building fully responsive MERN stack websites and application that implement the jamstack. My love for the MERN stack was fueled by my curiosity and ardent urge to create dynamic websites, and over time I've attained mastery in building MERN web apps.
+Currently pursuing a **BSc. Computer Science** at Jomo Kenyatta University of Agriculture and Technology (JKUAT).
 
-#### Skills
- * HTML
- * CSS
- * REACTJS
- * MongoDB
- * Nodejs
- * Expressjs
- * PHP Laravel
- * SQL/ MYSQL
+---
 
-#### About Me.😄
-- 🌱 I’m currently learning Nextjs, which is a react framework that extend react capabilities and is used for building React apps which are more robust, efficient and feature-rich. 
-- 👯 I’m looking to collaborate on building full stack MERN application. 
-- 💬 Ask me about creating robust MERN applications and optimizing their performances. 
-- 📫 How to reach me: Email me at gachirimwangi2021@gmail.com 
-- 😄 Pronouns: He.  
-- ⚡ Fun fact: I'm not just a coding aficionado, I'm also a bibliophile. Check out Sandra Browns' book, Mean Streak.  
+### 🛠 Tech Stack
 
-#### Where to find me.
-<div style="background-color: #f0f0f0; padding: 10px;">
-  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='fill: blue;'>](https://github.com/gachirimwangi) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/gachirimwangi) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](gachirimwangi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gachiri-mwangi)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/gdaniels_ke)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/gachirimwangi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/22733301/gachirimwangi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/gdaniels_ke)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](gachirimwangi.github.io)
+**Frontend**
+- React.js · JavaScript (ES6+) · HTML5 · CSS3
 
-</div>
+**Backend**
+- Laravel · PHP · REST API Design
 
+**Database**
+- MySQL · SQL
 
+**AI & Integrations**
+- AI chatbot integration · IFMS system integration · OpenAI API
+
+**Tools & Workflow**
+- Git · GitHub · WordPress · SEO
+
+---
+
+### 🚀 Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [Restaurant Website](https://github.com/GachiriMwangi/Restaurant-Website-React-Project) | React · CSS | Responsive restaurant landing page with animated sections |
+| [Blog Posts Platform](https://github.com/GachiriMwangi/EJS-Posts-Project) | EJS · SQL | Full-stack platform for creating and reading blog posts |
+| [Course Prompt](https://github.com/GachiriMwangi/NextJs-posts-project) | Next.js · GitHub API | Fetches and displays curated courses from GitHub |
+
+---
+
+### 📖 About Me
+
+- 🔭 Currently working on full stack React + Laravel projects
+- 🤖 Building and integrating AI-powered features into web systems
+- 🌱 Deepening my expertise in Laravel, SQL optimisation and AI integration
+- 💬 Ask me about React, Laravel, REST APIs or AI chatbot integration
+- 📫 Reach me at **gachirimwangi2021@gmail.com**
+- 📍 Based in **Nairobi, Kenya**
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a bibliophile when I'm not coding — check out Sandra Brown's *Mean Streak*
+
+---
+
+### 🌐 Find Me Online
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-gachirimwangi.github.io-blue?style=flat-square&logo=google-chrome)](https://gachirimwangi.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gachiri--mwangi-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gachiri-mwangi/)
+[![GitHub](https://img.shields.io/badge/GitHub-GachiriMwangi-181717?style=flat-square&logo=github)](https://github.com/gachirimwangi)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-gachirimwangi-FE7A16?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/22733301/gachirimwangi)
+[![Dev.to](https://img.shields.io/badge/Dev.to-gachirimwangi-0A0A0A?style=flat-square&logo=devdotto)](https://dev.to/gachirimwangi)
+[![CodePen](https://img.shields.io/badge/CodePen-gachirimwangi-000000?style=flat-square&logo=codepen)](https://codepen.io/gachirimwangi)
