@@ -27,16 +27,6 @@ Graduated with a **BSc. Computer Science** at Jomo Kenyatta University of Agricu
 
 ---
 
-### 🚀 Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| [Restaurant Website](https://github.com/GachiriMwangi/Restaurant-Website-React-Project) | React · CSS | Responsive restaurant landing page with animated sections |
-| [Blog Posts Platform](https://github.com/GachiriMwangi/EJS-Posts-Project) | EJS · SQL | Full-stack platform for creating and reading blog posts |
-| [Course Prompt](https://github.com/GachiriMwangi/NextJs-posts-project) | Next.js · GitHub API | Fetches and displays curated courses from GitHub |
-
----
-
 ### 📖 About Me
 
 - 🔭 Currently working on full stack React + Laravel projects
